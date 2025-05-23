@@ -1,4 +1,3 @@
-# uber_etl_pipeline_project
 # Uber Data Analytics | Modern Data Engineering GCP Project
 
 ## Introduction
